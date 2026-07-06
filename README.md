@@ -6,4 +6,3 @@
 ## Target Environment
 * **Platform:** Google Colab (with T4 GPU or higher enabled)
 * **Integration:** Utilizes Colab's native `google.colab.output` kernel bridge for safe, cross-origin browser microphone streaming without complex WebSocket configuration.
-هة
